@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AybukeONAY\\OneDrive\\Masaüstü\\Donem Projesi\\Büyük Veri\\AprioriAlgorithm\\AprioriAlgorithm\\AprioriAlgorithm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AybukeONAY\\OneDrive\\Masaüstü\\Donem Projesi\\Büyük Veri\\AprioriAlgorithm\\AprioriAlgorithm\\AprioriAlgorithm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AybukeONAY\\OneDrive\\Masaüstü\\Donem Projesi\\Büyük Veri\\AprioriAlgorithm\\AprioriAlgorithm\\AprioriAlgorithm.csproj",
+        "projectName": "AprioriAlgorithm",
+        "projectPath": "C:\\Users\\AybukeONAY\\OneDrive\\Masaüstü\\Donem Projesi\\Büyük Veri\\AprioriAlgorithm\\AprioriAlgorithm\\AprioriAlgorithm.csproj",
+        "packagesPath": "C:\\Users\\AybukeONAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AybukeONAY\\OneDrive\\Masaüstü\\Donem Projesi\\Büyük Veri\\AprioriAlgorithm\\AprioriAlgorithm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AybukeONAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
